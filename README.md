@@ -80,4 +80,4 @@ The application will now be running on `http://localhost:5173`.
 ### About the Developer
 This project was developed by **Igboeche Johnfavour Ikenna**.
 
-For any questions or collaboration inquiries, feel free to connect with me.
+For any questions or collaboration inquiries, feel free to reach out via email: igboechejohn@gmail.com.
